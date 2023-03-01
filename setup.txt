@@ -1,0 +1,5 @@
+create a new conda env, python=3.9
+
+pip install pygame
+pip install torch torchvision
+pip install matplotlib ipython
